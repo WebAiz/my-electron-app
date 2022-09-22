@@ -1,4 +1,3 @@
----
 ```shell
     Error: Could not find module with name: @electron-forge/maker-squirrel
 ```
@@ -24,4 +23,3 @@ Run  again
 Then try run npm run make again. I hope it works.
 
 PS. [Found in git discussion](https://github.com/electron-userland/electron-forge/issues/2656)
----
